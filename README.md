@@ -6,6 +6,4 @@ You may have noticed that AFRINIC is not included. APNIC is capable of querying 
 There is no point in querying AFRINIC directly
 
 This is one of my first attempts at releasing code publicly. I also usually do not write in an Object Oriented way,
-so do not be surprised if it is not up-to-par. I try my best, but can only guarantee that it does indeed work.
-I tried to write it in a redistributable way. This code will continuously be improved so that is more readable,
-and more easily usable.
+so do not be surprised if it is not up-to-par. I try my best, but can not give any guarantees. I tried to write it in a redistributable way. This code will continuously be improved so that is more readable, and more easily usable.
