@@ -1,2 +1,11 @@
-To sum up my goal, I distribute this code freely for anyone to more easily acquire IP address information.
-As long as you credit me in your application, you can use it non-commercially. If you use it for commercial purposes, I would like you to contact me.
+*********************************
+*Non-Commercial/Non-Profit Usage*
+*********************************
+
+You can make any changes you like, as long as you credit me.  If you use it for commercial purposes, I would like you to contact me.
+
+******************
+*Commercial Usage*
+******************
+
+Please contact me.
